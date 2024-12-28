@@ -99,3 +99,78 @@
 [28Dec2024 00:23:49.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cacotomaster[/127.117.5.183:37337] logged in with entity id 1424 at (-4.5, 108.0, 3.5)
 [28Dec2024 00:23:49.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster joined the game
 [28Dec2024 00:24:55.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ has made the advancement [Getting an Upgrade]
+[28Dec2024 00:25:44.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Stone Age]
+[28Dec2024 00:26:11.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Getting an Upgrade]
+[28Dec2024 00:26:55.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Alex's Mobs]
+[28Dec2024 00:27:56.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! 6.910965945568918,0.243240711822736,7.9438899214133585
+[28Dec2024 00:28:26.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiiin_ lost connection: Timed out
+[28Dec2024 00:28:26.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ left the game
+[28Dec2024 00:28:26.411] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 00:28:37.123] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7108b94d
+[28Dec2024 00:28:37.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: austiiin_[/127.138.208.248:38029] logged in with entity id 3112 at (191.94872905041544, 64.0, -234.0411125483758)
+[28Dec2024 00:28:37.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ joined the game
+[28Dec2024 00:30:37.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Monster Hunter]
+[28Dec2024 00:30:51.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Monster Hunter]
+[28Dec2024 00:30:54.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ has made the advancement [Monster Hunter]
+[28Dec2024 00:31:33.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=249, y=65, z=-456} BlockPos{x=248, y=63, z=-457}
+[28Dec2024 00:31:33.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=249, y=65, z=-456} BlockPos{x=248, y=63, z=-457}
+[28Dec2024 00:31:33.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=249, y=65, z=-456} BlockPos{x=248, y=63, z=-457}
+[28Dec2024 00:31:42.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Disconnected
+[28Dec2024 00:31:42.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
+[28Dec2024 00:31:50.861] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ed63692
+[28Dec2024 00:31:50.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JMateossj[/127.140.61.171:47785] logged in with entity id 4396 at (207.50822400815227, 63.0, -450.38976799780335)
+[28Dec2024 00:31:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj joined the game
+[28Dec2024 00:31:52.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiiin_ lost connection: Timed out
+[28Dec2024 00:31:52.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ left the game
+[28Dec2024 00:31:52.638] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 00:32:02.357] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18c2a7be
+[28Dec2024 00:32:02.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: austiiin_[/127.138.208.248:52005] logged in with entity id 4457 at (238.45897892563218, 68.25220334025373, -368.0539757002858)
+[28Dec2024 00:32:02.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ joined the game
+[28Dec2024 00:32:09.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Disconnected
+[28Dec2024 00:32:09.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
+[28Dec2024 00:32:24.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=70, z=-567} BlockPos{x=201, y=68, z=-567}
+[28Dec2024 00:32:24.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=70, z=-567} BlockPos{x=201, y=68, z=-567}
+[28Dec2024 00:32:25.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
+[28Dec2024 00:32:25.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
+[28Dec2024 00:32:25.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
+[28Dec2024 00:32:25.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
+[28Dec2024 00:32:25.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
+[28Dec2024 00:32:25.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
+[28Dec2024 00:32:25.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
+[28Dec2024 00:32:26.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=306, y=66, z=-366} BlockPos{x=306, y=64, z=-365}
+[28Dec2024 00:32:26.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=306, y=66, z=-366} BlockPos{x=306, y=64, z=-365}
+[28Dec2024 00:32:26.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=66, z=-365} BlockPos{x=307, y=64, z=-365}
+[28Dec2024 00:32:30.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=67, z=-352} BlockPos{x=300, y=65, z=-352}
+[28Dec2024 00:32:32.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=295, y=67, z=-347} BlockPos{x=294, y=65, z=-348}
+[28Dec2024 00:32:44.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=62, z=-364} BlockPos{x=278, y=62, z=-364}
+[28Dec2024 00:32:44.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=64, z=-365} BlockPos{x=276, y=62, z=-365}
+[28Dec2024 00:32:44.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=64, z=-365} BlockPos{x=276, y=62, z=-365}
+[28Dec2024 00:32:44.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=64, z=-365} BlockPos{x=276, y=62, z=-365}
+[28Dec2024 00:33:14.363] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f612245
+[28Dec2024 00:33:14.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JMateossj[/127.140.61.171:38487] logged in with entity id 5435 at (209.59458733841743, 65.0, -448.55349953234764)
+[28Dec2024 00:33:14.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj joined the game
+[28Dec2024 00:34:09.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=89, y=82, z=-400} BlockPos{x=89, y=80, z=-401}
+[28Dec2024 00:35:56.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ was slain by Zombie
+[28Dec2024 00:40:18.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiiin_ lost connection: Timed out
+[28Dec2024 00:40:18.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ left the game
+[28Dec2024 00:41:26.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Disconnected
+[28Dec2024 00:41:26.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
+[28Dec2024 00:43:26.199] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@21fd5bab
+[28Dec2024 00:43:26.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JMateossj[/127.140.61.171:41203] logged in with entity id 10400 at (-70.40521530717054, 66.0, -471.30000001192093)
+[28Dec2024 00:43:26.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj joined the game
+[28Dec2024 00:43:52.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! -9.569028935374497,-2.9345854633511976,-0.9778086985475056
+[28Dec2024 00:44:00.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Alligator In Name Only]
+[28Dec2024 00:44:02.159] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d12b7a4
+[28Dec2024 00:44:02.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrJuanNoob[/127.76.27.44:46395] logged in with entity id 11042 at (7.5, 115.0, 5.5)
+[28Dec2024 00:44:02.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrJuanNoob joined the game
+[28Dec2024 00:44:10.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrJuanNoob lost connection: Disconnected
+[28Dec2024 00:44:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrJuanNoob left the game
+[28Dec2024 00:46:40.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! 9.934430040253012,0.604424101326714,-2.7144987646627783
+[28Dec2024 00:47:11.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cacotomaster lost connection: Disconnected
+[28Dec2024 00:47:11.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster left the game
+[28Dec2024 00:48:14.256] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5de9b58e
+[28Dec2024 00:48:14.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cacotomaster[/127.117.5.183:57205] logged in with entity id 13601 at (451.7491702277847, 65.0, -1158.5884887096936)
+[28Dec2024 00:48:14.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster joined the game
+[28Dec2024 00:50:40.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Ice Bucket Challenge]
+[28Dec2024 00:52:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Acquire Hardware]
+[28Dec2024 00:54:34.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! -7.155806511340245,0.0,-7.50446164274922
