@@ -174,3 +174,43 @@
 [28Dec2024 00:50:40.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Ice Bucket Challenge]
 [28Dec2024 00:52:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Acquire Hardware]
 [28Dec2024 00:54:34.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! -7.155806511340245,0.0,-7.50446164274922
+[28Dec2024 00:59:16.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! -10.026352556658708,0.5864107172620834,-1.362791615896981
+[28Dec2024 01:00:52.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Diamonds!]
+[28Dec2024 01:02:59.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.5373867465309559
+[28Dec2024 01:02:59.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.6710308985343545
+[28Dec2024 01:02:59.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 1.0649109463679451
+[28Dec2024 01:02:59.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 1.459016554770642
+[28Dec2024 01:02:59.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.47153860365051514
+[28Dec2024 01:02:59.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.47153860365051514
+[28Dec2024 01:02:59.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.47153860365051514
+[28Dec2024 01:02:59.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.38460521446495477
+[28Dec2024 01:02:59.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.3449916397216839
+[28Dec2024 01:02:59.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.5873352235112179
+[28Dec2024 01:02:59.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.47998243860138246
+[28Dec2024 01:03:03.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster was slain by Skelewag
+[28Dec2024 01:10:15.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30670, l='ServerLevel[world]', x=-512.50, y=48.00, z=-1644.50]
+[28Dec2024 01:12:31.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Mine? Mine? Mine?]
+[28Dec2024 01:13:55.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! -4.4356098636956744,1.7953996215565695,-9.112077211118503
+[28Dec2024 01:14:00.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! -0.1566862388987147,1.130906499714527,-9.99291852180022
+[28Dec2024 01:14:06.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj was kicked for floating too long!
+[28Dec2024 01:14:06.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Flying is not enabled on this server
+[28Dec2024 01:14:06.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
+[28Dec2024 01:14:17.802] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e10ae50
+[28Dec2024 01:14:17.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JMateossj[/127.140.61.171:39999] logged in with entity id 38524 at (-394.21200983848513, 79.16610926093821, -1950.8994087834799)
+[28Dec2024 01:14:17.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj joined the game
+[28Dec2024 01:14:56.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Disconnected
+[28Dec2024 01:14:56.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
+[28Dec2024 01:15:20.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cacotomaster lost connection: Disconnected
+[28Dec2024 01:15:20.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster left the game
+[28Dec2024 01:15:21.903] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.lang.NoClassDefFoundError: org/jline/terminal/Terminal$MouseTracking
+	at org.jline.reader.impl.LineReaderImpl.doCleanup(LineReaderImpl.java:2432) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.cleanup(LineReaderImpl.java:2419) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:648) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.19.2-43.4.2-universal.jar%23132!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23127!/:?]
+Caused by: java.lang.ClassNotFoundException: org.jline.terminal.Terminal$MouseTracking
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 6 more
