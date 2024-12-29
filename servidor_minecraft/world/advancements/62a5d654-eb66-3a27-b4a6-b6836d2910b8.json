@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-28 00:21:35 +0000"
@@ -116,6 +122,12 @@
   "biomesoplenty:recipes/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-28 01:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:37 +0000"
     },
     "done": true
   },
@@ -275,9 +287,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-28 00:50:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:35 +0000"
     },
     "done": true
   },
@@ -393,9 +417,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-12-28 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:37 +0000"
     },
     "done": true
   },
@@ -585,11 +621,13 @@
       "shrubland": "2024-12-28 00:28:40 +0000",
       "marsh": "2024-12-28 00:25:17 +0000",
       "wetland": "2024-12-28 00:40:39 +0000",
+      "mystic_grove": "2024-12-29 23:14:11 +0000",
       "cold_desert": "2024-12-28 01:13:46 +0000",
       "maple_woods": "2024-12-28 00:53:48 +0000",
       "lavender_forest": "2024-12-28 00:33:38 +0000",
       "bog": "2024-12-28 00:40:43 +0000",
       "old_growth_dead_forest": "2024-12-28 00:57:47 +0000",
+      "cherry_blossom_grove": "2024-12-29 23:13:13 +0000",
       "dead_forest": "2024-12-28 00:55:51 +0000",
       "pumpkin_patch": "2024-12-28 00:50:33 +0000",
       "snowy_coniferous_forest": "2024-12-28 01:05:30 +0000",
@@ -608,6 +646,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-12-29 19:09:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:35 +0000"
     },
     "done": true
   },
@@ -749,6 +793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-29 19:22:11 +0000"
@@ -855,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 23:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-28 01:07:09 +0000"
@@ -927,6 +983,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_cherry_planks": "2024-12-29 23:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-28 01:05:50 +0000"
@@ -984,6 +1052,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-29 19:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:37 +0000"
     },
     "done": true
   },
@@ -1137,6 +1211,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-29 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-29 23:11:18 +0000"
@@ -1200,6 +1286,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-29 18:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-29 23:15:30 +0000"
     },
     "done": true
   },
@@ -1269,6 +1361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 23:16:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "marsh": "2024-12-28 00:25:17 +0000"
@@ -1302,6 +1400,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-12-28 01:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:37 +0000"
     },
     "done": true
   },
@@ -1467,6 +1571,7 @@
       "minecraft:frozen_river": "2024-12-28 00:54:32 +0000",
       "minecraft:birch_forest": "2024-12-29 19:18:39 +0000",
       "minecraft:windswept_hills": "2024-12-28 00:21:25 +0000",
+      "minecraft:sparse_jungle": "2024-12-29 23:15:16 +0000",
       "minecraft:river": "2024-12-28 00:24:29 +0000",
       "minecraft:snowy_plains": "2024-12-28 01:13:34 +0000",
       "minecraft:stony_shore": "2024-12-29 18:30:44 +0000",
@@ -1508,9 +1613,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-28 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-29 23:15:30 +0000"
     },
     "done": true
   },
@@ -1553,6 +1670,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-28 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 23:13:08 +0000"
     },
     "done": true
   },
@@ -1610,6 +1733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-28 01:07:27 +0000"
@@ -1640,6 +1769,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-29 19:22:11 +0000"
@@ -1649,6 +1784,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-28 01:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:37 +0000"
     },
     "done": true
   },
@@ -1667,6 +1808,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2024-12-28 00:24:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-29 23:18:35 +0000"
     },
     "done": true
   },
@@ -1715,6 +1862,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-28 00:21:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 23:13:08 +0000"
     },
     "done": true
   },

@@ -78,3 +78,7 @@
 [29Dec2024 23:08:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrJuanNoob joined the game
 [29Dec2024 23:14:52.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrJuanNoob has made the advancement [Stone Age]
 [29Dec2024 23:15:04.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrJuanNoob has made the advancement [Getting an Upgrade]
+[29Dec2024 23:19:09.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Disconnected
+[29Dec2024 23:19:09.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
+[29Dec2024 23:19:23.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrJuanNoob lost connection: Disconnected
+[29Dec2024 23:19:23.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrJuanNoob left the game
