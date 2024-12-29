@@ -1,216 +1,80 @@
-[28Dec2024 00:15:12.882] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
-[28Dec2024 00:15:12.892] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[28Dec2024 00:15:13.383] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/avena-polaca/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[28Dec2024 00:15:13.937] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[28Dec2024 00:15:13.939] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[28Dec2024 00:15:13.941] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[28Dec2024 00:15:13.943] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[28Dec2024 00:15:14.093] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[28Dec2024 00:15:16.678] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[28Dec2024 00:15:16.763] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[28Dec2024 00:15:16.920] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
-[28Dec2024 00:15:24.640] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[28Dec2024 00:15:28.336] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[28Dec2024 00:15:28.338] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[28Dec2024 00:15:31.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[28Dec2024 00:15:31.669] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[28Dec2024 00:15:31.670] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[28Dec2024 00:15:31.671] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[28Dec2024 00:15:31.671] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[28Dec2024 00:15:31.672] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[28Dec2024 00:15:31.673] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[28Dec2024 00:15:31.674] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[28Dec2024 00:15:31.700] [main/INFO] [journeymap/]: Initializing Packet Registries
-[28Dec2024 00:15:31.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.12
-[28Dec2024 00:15:31.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[28Dec2024 00:15:31.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.7 Target: 5.9.8
-[28Dec2024 00:15:33.567] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[28Dec2024 00:15:34.791] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23127!/assets/.mcassetsroot' uses unexpected schema
-[28Dec2024 00:15:34.792] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23127!/data/.mcassetsroot' uses unexpected schema
-[28Dec2024 00:15:37.796] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[28Dec2024 00:15:38.846] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[28Dec2024 00:15:39.645] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1512 advancements
-[28Dec2024 00:15:39.649] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 0 dynamic modifiers in 0.333081 ms
-[28Dec2024 00:15:40.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[28Dec2024 00:15:40.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28Dec2024 00:15:40.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28Dec2024 00:15:40.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28Dec2024 00:15:40.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28Dec2024 00:15:40.949] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[28Dec2024 00:15:41.080] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[28Dec2024 00:15:41.080] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[28Dec2024 00:15:41.081] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[28Dec2024 00:15:41.082] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[28Dec2024 00:15:41.114] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Dec2024 00:15:41.117] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Dec2024 00:15:41.705] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[28Dec2024 00:15:41.707] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[28Dec2024 00:15:41.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28Dec2024 00:15:42.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28Dec2024 00:15:48.787] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.794] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.795] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.796] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.797] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.799] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.800] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.801] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.802] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.803] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.804] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.805] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.806] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:48.807] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:49.114] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Dec2024 00:15:49.618] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[28Dec2024 00:15:50.114] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
-[28Dec2024 00:15:50.484] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8370 ms
-[28Dec2024 00:15:50.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.391s)! For help, type "help"
-[28Dec2024 00:15:50.499] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[28Dec2024 00:16:09.121] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44c7e307
-[28Dec2024 00:16:09.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: austiiin_[/100.105.119.95:57313] logged in with entity id 253 at (20.745072844190524, 118.0, 8.864726033669344)
-[28Dec2024 00:16:09.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ joined the game
-[28Dec2024 00:16:15.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiiin_ lost connection: Disconnected
-[28Dec2024 00:16:15.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ left the game
-[28Dec2024 00:16:34.442] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20152a0b
-[28Dec2024 00:16:34.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: austiiin_[/127.138.208.248:43023] logged in with entity id 282 at (20.745072844190524, 118.0, 8.864726033669344)
-[28Dec2024 00:16:34.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ joined the game
-[28Dec2024 00:16:43.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiiin_ lost connection: Disconnected
-[28Dec2024 00:16:43.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ left the game
-[28Dec2024 00:18:21.242] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a2dbf0c[id=<null>,name=JMateossj,properties={},legacy=false] (/127.140.61.171:56805) lost connection: Disconnected
-[28Dec2024 00:18:25.292] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1dd0099d
-[28Dec2024 00:18:25.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: austiiin_[/127.138.208.248:39511] logged in with entity id 325 at (21.040107221363616, 118.0, 8.986957453675869)
-[28Dec2024 00:18:25.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ joined the game
-[28Dec2024 00:20:02.344] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41a454a3[id=<null>,name=Cacotomaster,properties={},legacy=false] (/127.117.5.183:51073) lost connection: Disconnected
-[28Dec2024 00:20:07.397] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@26630043
-[28Dec2024 00:20:07.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JMateossj[/127.140.61.171:53667] logged in with entity id 613 at (5.5, 109.0, -7.5)
-[28Dec2024 00:20:07.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj joined the game
-[28Dec2024 00:20:22.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Alex's Mobs]
-[28Dec2024 00:21:29.749] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1af5a799[id=<null>,name=Cacotomaster,properties={},legacy=false] (/127.117.5.183:52667) lost connection: Disconnected
-[28Dec2024 00:21:35.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Stone Age]
-[28Dec2024 00:21:53.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Disconnected
-[28Dec2024 00:21:53.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
-[28Dec2024 00:22:10.299] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72f2e8b5
-[28Dec2024 00:22:10.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JMateossj[/127.140.61.171:48341] logged in with entity id 1031 at (15.476385514197796, 88.0, -63.05719507671202)
-[28Dec2024 00:22:10.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj joined the game
-[28Dec2024 00:22:27.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Getting an Upgrade]
-[28Dec2024 00:22:51.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ has made the advancement [Stone Age]
-[28Dec2024 00:23:49.697] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61547354
-[28Dec2024 00:23:49.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cacotomaster[/127.117.5.183:37337] logged in with entity id 1424 at (-4.5, 108.0, 3.5)
-[28Dec2024 00:23:49.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster joined the game
-[28Dec2024 00:24:55.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ has made the advancement [Getting an Upgrade]
-[28Dec2024 00:25:44.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Stone Age]
-[28Dec2024 00:26:11.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Getting an Upgrade]
-[28Dec2024 00:26:55.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Alex's Mobs]
-[28Dec2024 00:27:56.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! 6.910965945568918,0.243240711822736,7.9438899214133585
-[28Dec2024 00:28:26.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiiin_ lost connection: Timed out
-[28Dec2024 00:28:26.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ left the game
-[28Dec2024 00:28:26.411] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[28Dec2024 00:28:37.123] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7108b94d
-[28Dec2024 00:28:37.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: austiiin_[/127.138.208.248:38029] logged in with entity id 3112 at (191.94872905041544, 64.0, -234.0411125483758)
-[28Dec2024 00:28:37.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ joined the game
-[28Dec2024 00:30:37.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Monster Hunter]
-[28Dec2024 00:30:51.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Monster Hunter]
-[28Dec2024 00:30:54.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ has made the advancement [Monster Hunter]
-[28Dec2024 00:31:33.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=249, y=65, z=-456} BlockPos{x=248, y=63, z=-457}
-[28Dec2024 00:31:33.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=249, y=65, z=-456} BlockPos{x=248, y=63, z=-457}
-[28Dec2024 00:31:33.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=249, y=65, z=-456} BlockPos{x=248, y=63, z=-457}
-[28Dec2024 00:31:42.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Disconnected
-[28Dec2024 00:31:42.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
-[28Dec2024 00:31:50.861] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ed63692
-[28Dec2024 00:31:50.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JMateossj[/127.140.61.171:47785] logged in with entity id 4396 at (207.50822400815227, 63.0, -450.38976799780335)
-[28Dec2024 00:31:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj joined the game
-[28Dec2024 00:31:52.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiiin_ lost connection: Timed out
-[28Dec2024 00:31:52.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ left the game
-[28Dec2024 00:31:52.638] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[28Dec2024 00:32:02.357] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18c2a7be
-[28Dec2024 00:32:02.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: austiiin_[/127.138.208.248:52005] logged in with entity id 4457 at (238.45897892563218, 68.25220334025373, -368.0539757002858)
-[28Dec2024 00:32:02.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ joined the game
-[28Dec2024 00:32:09.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Disconnected
-[28Dec2024 00:32:09.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
-[28Dec2024 00:32:24.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=70, z=-567} BlockPos{x=201, y=68, z=-567}
-[28Dec2024 00:32:24.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=70, z=-567} BlockPos{x=201, y=68, z=-567}
-[28Dec2024 00:32:25.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
-[28Dec2024 00:32:25.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
-[28Dec2024 00:32:25.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
-[28Dec2024 00:32:25.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
-[28Dec2024 00:32:25.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
-[28Dec2024 00:32:25.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
-[28Dec2024 00:32:25.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=65, z=-367} BlockPos{x=300, y=64, z=-365}
-[28Dec2024 00:32:26.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=306, y=66, z=-366} BlockPos{x=306, y=64, z=-365}
-[28Dec2024 00:32:26.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=306, y=66, z=-366} BlockPos{x=306, y=64, z=-365}
-[28Dec2024 00:32:26.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=66, z=-365} BlockPos{x=307, y=64, z=-365}
-[28Dec2024 00:32:30.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=67, z=-352} BlockPos{x=300, y=65, z=-352}
-[28Dec2024 00:32:32.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=295, y=67, z=-347} BlockPos{x=294, y=65, z=-348}
-[28Dec2024 00:32:44.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=62, z=-364} BlockPos{x=278, y=62, z=-364}
-[28Dec2024 00:32:44.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=64, z=-365} BlockPos{x=276, y=62, z=-365}
-[28Dec2024 00:32:44.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=64, z=-365} BlockPos{x=276, y=62, z=-365}
-[28Dec2024 00:32:44.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=64, z=-365} BlockPos{x=276, y=62, z=-365}
-[28Dec2024 00:33:14.363] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f612245
-[28Dec2024 00:33:14.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JMateossj[/127.140.61.171:38487] logged in with entity id 5435 at (209.59458733841743, 65.0, -448.55349953234764)
-[28Dec2024 00:33:14.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj joined the game
-[28Dec2024 00:34:09.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=89, y=82, z=-400} BlockPos{x=89, y=80, z=-401}
-[28Dec2024 00:35:56.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ was slain by Zombie
-[28Dec2024 00:40:18.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: austiiin_ lost connection: Timed out
-[28Dec2024 00:40:18.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: austiiin_ left the game
-[28Dec2024 00:41:26.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Disconnected
-[28Dec2024 00:41:26.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
-[28Dec2024 00:43:26.199] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@21fd5bab
-[28Dec2024 00:43:26.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JMateossj[/127.140.61.171:41203] logged in with entity id 10400 at (-70.40521530717054, 66.0, -471.30000001192093)
-[28Dec2024 00:43:26.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj joined the game
-[28Dec2024 00:43:52.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! -9.569028935374497,-2.9345854633511976,-0.9778086985475056
-[28Dec2024 00:44:00.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Alligator In Name Only]
-[28Dec2024 00:44:02.159] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d12b7a4
-[28Dec2024 00:44:02.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrJuanNoob[/127.76.27.44:46395] logged in with entity id 11042 at (7.5, 115.0, 5.5)
-[28Dec2024 00:44:02.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrJuanNoob joined the game
-[28Dec2024 00:44:10.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrJuanNoob lost connection: Disconnected
-[28Dec2024 00:44:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrJuanNoob left the game
-[28Dec2024 00:46:40.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! 9.934430040253012,0.604424101326714,-2.7144987646627783
-[28Dec2024 00:47:11.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cacotomaster lost connection: Disconnected
-[28Dec2024 00:47:11.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster left the game
-[28Dec2024 00:48:14.256] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5de9b58e
-[28Dec2024 00:48:14.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cacotomaster[/127.117.5.183:57205] logged in with entity id 13601 at (451.7491702277847, 65.0, -1158.5884887096936)
-[28Dec2024 00:48:14.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster joined the game
-[28Dec2024 00:50:40.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Ice Bucket Challenge]
-[28Dec2024 00:52:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Acquire Hardware]
-[28Dec2024 00:54:34.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! -7.155806511340245,0.0,-7.50446164274922
-[28Dec2024 00:59:16.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! -10.026352556658708,0.5864107172620834,-1.362791615896981
-[28Dec2024 01:00:52.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster has made the advancement [Diamonds!]
-[28Dec2024 01:02:59.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.5373867465309559
-[28Dec2024 01:02:59.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.6710308985343545
-[28Dec2024 01:02:59.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 1.0649109463679451
-[28Dec2024 01:02:59.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 1.459016554770642
-[28Dec2024 01:02:59.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.47153860365051514
-[28Dec2024 01:02:59.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.47153860365051514
-[28Dec2024 01:02:59.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.47153860365051514
-[28Dec2024 01:02:59.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.38460521446495477
-[28Dec2024 01:02:59.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.3449916397216839
-[28Dec2024 01:02:59.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.5873352235112179
-[28Dec2024 01:02:59.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Cacotomaster) moved wrongly! 0.47998243860138246
-[28Dec2024 01:03:03.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster was slain by Skelewag
-[28Dec2024 01:10:15.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30670, l='ServerLevel[world]', x=-512.50, y=48.00, z=-1644.50]
-[28Dec2024 01:12:31.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj has made the advancement [Mine? Mine? Mine?]
-[28Dec2024 01:13:55.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! -4.4356098636956744,1.7953996215565695,-9.112077211118503
-[28Dec2024 01:14:00.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj moved too quickly! -0.1566862388987147,1.130906499714527,-9.99291852180022
-[28Dec2024 01:14:06.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj was kicked for floating too long!
-[28Dec2024 01:14:06.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Flying is not enabled on this server
-[28Dec2024 01:14:06.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
-[28Dec2024 01:14:17.802] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e10ae50
-[28Dec2024 01:14:17.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JMateossj[/127.140.61.171:39999] logged in with entity id 38524 at (-394.21200983848513, 79.16610926093821, -1950.8994087834799)
-[28Dec2024 01:14:17.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj joined the game
-[28Dec2024 01:14:56.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JMateossj lost connection: Disconnected
-[28Dec2024 01:14:56.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj left the game
-[28Dec2024 01:15:20.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cacotomaster lost connection: Disconnected
-[28Dec2024 01:15:20.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cacotomaster left the game
-[28Dec2024 01:15:21.903] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
-java.lang.NoClassDefFoundError: org/jline/terminal/Terminal$MouseTracking
-	at org.jline.reader.impl.LineReaderImpl.doCleanup(LineReaderImpl.java:2432) ~[jline-reader-3.12.1.jar%2361!/:?]
-	at org.jline.reader.impl.LineReaderImpl.cleanup(LineReaderImpl.java:2419) ~[jline-reader-3.12.1.jar%2361!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:648) ~[jline-reader-3.12.1.jar%2361!/:?]
-	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2361!/:?]
-	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.19.2-43.4.2-universal.jar%23132!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23127!/:?]
-Caused by: java.lang.ClassNotFoundException: org.jline.terminal.Terminal$MouseTracking
-	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	... 6 more
+[29Dec2024 23:07:14.348] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[29Dec2024 23:07:14.352] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[29Dec2024 23:07:16.004] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/avena-polaca/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[29Dec2024 23:07:16.715] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[29Dec2024 23:07:16.718] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[29Dec2024 23:07:16.720] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[29Dec2024 23:07:16.721] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[29Dec2024 23:07:16.921] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[29Dec2024 23:07:19.436] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Dec2024 23:07:19.487] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[29Dec2024 23:07:19.757] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[29Dec2024 23:07:27.018] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[29Dec2024 23:07:29.513] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[29Dec2024 23:07:29.514] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[29Dec2024 23:07:31.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Dec2024 23:07:32.320] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[29Dec2024 23:07:32.320] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[29Dec2024 23:07:32.321] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[29Dec2024 23:07:32.321] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[29Dec2024 23:07:32.322] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[29Dec2024 23:07:32.322] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[29Dec2024 23:07:32.323] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[29Dec2024 23:07:32.329] [main/INFO] [journeymap/]: Initializing Packet Registries
+[29Dec2024 23:07:32.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.12
+[29Dec2024 23:07:32.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[29Dec2024 23:07:32.520] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.7 Target: 5.9.8
+[29Dec2024 23:07:34.070] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Dec2024 23:07:35.076] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23127!/assets/.mcassetsroot' uses unexpected schema
+[29Dec2024 23:07:35.078] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/avena-polaca/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23127!/data/.mcassetsroot' uses unexpected schema
+[29Dec2024 23:07:37.515] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[29Dec2024 23:07:38.355] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[29Dec2024 23:07:39.037] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1512 advancements
+[29Dec2024 23:07:39.040] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 0 dynamic modifiers in 0.530599 ms
+[29Dec2024 23:07:39.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[29Dec2024 23:07:39.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Dec2024 23:07:39.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Dec2024 23:07:39.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Dec2024 23:07:40.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Dec2024 23:07:40.269] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Dec2024 23:07:40.397] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Dec2024 23:07:40.397] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Dec2024 23:07:40.398] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Dec2024 23:07:40.398] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Dec2024 23:07:40.424] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Dec2024 23:07:40.424] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Dec2024 23:07:40.425] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Dec2024 23:07:41.147] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[29Dec2024 23:07:41.148] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[29Dec2024 23:07:41.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Dec2024 23:07:41.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Dec2024 23:07:45.505] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:45.513] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:45.554] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:45.679] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:45.681] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:45.682] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:45.684] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:45.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:45.687] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:46.028] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:46.535] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:47.030] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:47.538] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:48.024] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:48.533] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:49.024] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Dec2024 23:07:49.524] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[29Dec2024 23:07:50.027] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[29Dec2024 23:07:50.340] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8817 ms
+[29Dec2024 23:07:50.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.934s)! For help, type "help"
+[29Dec2024 23:07:50.502] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Dec2024 23:08:41.539] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6fb868ea
+[29Dec2024 23:08:41.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JMateossj[/127.140.61.171:51115] logged in with entity id 151 at (-471.4958692171592, 71.0, 165.05181904522718)
+[29Dec2024 23:08:41.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JMateossj joined the game
+[29Dec2024 23:08:44.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
+[29Dec2024 23:08:52.690] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8feb215
+[29Dec2024 23:08:52.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrJuanNoob[/127.76.27.44:38325] logged in with entity id 375 at (7.5, 115.0, 5.5)
+[29Dec2024 23:08:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrJuanNoob joined the game
+[29Dec2024 23:14:52.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrJuanNoob has made the advancement [Stone Age]
+[29Dec2024 23:15:04.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrJuanNoob has made the advancement [Getting an Upgrade]
